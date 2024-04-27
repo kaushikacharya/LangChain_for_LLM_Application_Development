@@ -21,3 +21,12 @@
     - `{'qa_pairs': {'query': <query>, 'answer': <answer>}}`
     - Correction done on the notebook by me to handle this issue.
   - LangChain Plus seems to be no more accessible.
+
+## Additional Resources (KA)
+
+- Retrievers
+  - [LangChain documentation](https://python.langchain.com/docs/modules/data_connection/retrievers/) defines it as an interface that returns documents given an unstructured query.
+  - [LangChain blog](https://blog.langchain.dev/retrieval/) mentions variations in retrieval step apart from Semantic Search:
+    - Optimizing maximal marginal relevance
+    - Graph based indexing
+  - [Andrej Karpathy](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb) advocates using SVM instead of KNN.
