@@ -1,5 +1,12 @@
 # LangChain for LLM Application Development
 
+## Course Info
+
+- [Course URL](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- Instructors
+  - Harrison Chase, co-founder of LangChain
+  - Andrew Ng
+
 ## Course Contents
 
 |#|Lesson    |
@@ -9,6 +16,7 @@
 |2|[Memory](./notes/Lesson_2.md)|
 |3|[Chains](./notes/Lesson_3.md)|
 |4|[Question and Answer Over Documents](./notes/Lesson_4.md)|
+|5|[Evaluating LLM Applications](./notes/Lesson_5.md)|
 
 ## Assignments
 
@@ -18,3 +26,4 @@
 |2|[Memory](./notes/Lesson_2.md#notebook)|Employ different memory types to store conversations and manage limited context|
 |3|[Chains](./notes/Lesson_3.md#notebook)|Chains in LangChain|
 |4|[Question and Answer Over Documents](./notes/Lesson_4.md#notebook)|Q&A over product catalog|
+|5|[Evaluating LLM Applications](./notes/Lesson_5.md#notebook)|LLM assisted evaluation of Q&A over product catalog|
