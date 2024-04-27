@@ -1,5 +1,12 @@
 # LangChain for LLM Application Development
 
+## About
+
+This repository contains
+
+- [Course notes](#course-contents)
+- [Assignments](#assignments)
+
 ## Course Info
 
 - [Course URL](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
@@ -17,6 +24,7 @@
 |3|[Chains](./notes/Lesson_3.md)|
 |4|[Question and Answer Over Documents](./notes/Lesson_4.md)|
 |5|[Evaluating LLM Applications](./notes/Lesson_5.md)|
+|6|[Agents](./notes/Lesson_6.md)|
 
 ## Assignments
 
@@ -27,3 +35,13 @@
 |3|[Chains](./notes/Lesson_3.md#notebook)|Chains in LangChain|
 |4|[Question and Answer Over Documents](./notes/Lesson_4.md#notebook)|Q&A over product catalog|
 |5|[Evaluating LLM Applications](./notes/Lesson_5.md#notebook)|LLM assisted evaluation of Q&A over product catalog|
+|6|[Agents](./notes/Lesson_6.md#notebook)|Create agents to solve math problem and search on Wikipedia. Plus define your own tool.|
+
+## Certificate
+
+- [Course Completion Certificate](https://learn.deeplearning.ai/accomplishments/cc129a1b-3dc7-42ad-8c8f-de43558ed77a?usp=sharing)
+- Issued on April 2024
+
+## Related Courses
+
+Please visit my [Github page](https://kaushikacharya.github.io/courses/) for more courses.
